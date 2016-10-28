@@ -1,0 +1,18 @@
+//
+//  header.pch
+//  testMasonary
+//
+//  Created by NC on 16/10/28.
+//  Copyright © 2016年 Bella. All rights reserved.
+//
+
+#ifndef header_pch
+#define header_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Masonry.h"
+
+
+#endif /* header_pch */
